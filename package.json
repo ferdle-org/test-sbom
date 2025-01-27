@@ -1,9 +1,9 @@
 {
-    "name": "gh-sbom-debug",
+    "name": "test-sbom",
     "version": "0.0.1",
     "packageManager": "npm@10.9.0",
     "repository": "git@github.com:ferdle-org/test-sbom",
-    "private": true,
+    "private": false,
     "dependencies": {
       "typescript": "^5.6.0"
     }
